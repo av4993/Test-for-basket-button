@@ -3,7 +3,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-def test_language_user(browser):
+def test_find_basket_button(browser):
     link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
     browser.get(link)
     button1 = len(browser.find_elements(By.CSS_SELECTOR, "button.btn-add-to-basket"))
