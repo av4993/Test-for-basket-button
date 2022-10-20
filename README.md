@@ -1,4 +1,4 @@
-# Test for languages
+# Test for basket button
 
 stepik.org / Автоматизация тестирования с помощью Selenium и Python / 3.6 шаг 9
 
